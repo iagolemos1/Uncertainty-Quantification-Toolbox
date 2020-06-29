@@ -6,7 +6,7 @@ The Uncertainty Quantification Toolbox (uqt) is a Python software for uncertaint
 # Referencing
 For referencing the repository, use the following code:
 ```
-@misc{thresholdmodeling,
+@misc{uqt,
     author    = {Iago P. Lemos},
     title     = {Uncertainty Quantification Toolbox},
     month     = June,
