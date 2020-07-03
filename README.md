@@ -11,7 +11,7 @@ For referencing the repository, use the following code:
     title     = {Uncertainty Quantification Toolbox},
     month     = June,
     year      = 2020,
-    doi       = {10.5281/zenodo.3922157},
+    doi       = {10.5281/zenodo.3929659},
     version   = {0.0.1},
     publisher = {Zenodo},
     url       = {https://github.com/iagolemos1/Uncertainty-Quantification-Toolbox}
